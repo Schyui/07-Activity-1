@@ -1,0 +1,14 @@
+C:\Users\Harvey Mellomida\source\repos\UserInformation\UserInformation\bin\Debug\net8.0\UserInformation.exe
+C:\Users\Harvey Mellomida\source\repos\UserInformation\UserInformation\bin\Debug\net8.0\UserInformation.deps.json
+C:\Users\Harvey Mellomida\source\repos\UserInformation\UserInformation\bin\Debug\net8.0\UserInformation.runtimeconfig.json
+C:\Users\Harvey Mellomida\source\repos\UserInformation\UserInformation\bin\Debug\net8.0\UserInformation.dll
+C:\Users\Harvey Mellomida\source\repos\UserInformation\UserInformation\bin\Debug\net8.0\UserInformation.pdb
+C:\Users\Harvey Mellomida\source\repos\UserInformation\UserInformation\obj\Debug\net8.0\UserInformation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harvey Mellomida\source\repos\UserInformation\UserInformation\obj\Debug\net8.0\UserInformation.AssemblyInfoInputs.cache
+C:\Users\Harvey Mellomida\source\repos\UserInformation\UserInformation\obj\Debug\net8.0\UserInformation.AssemblyInfo.cs
+C:\Users\Harvey Mellomida\source\repos\UserInformation\UserInformation\obj\Debug\net8.0\UserInformation.csproj.CoreCompileInputs.cache
+C:\Users\Harvey Mellomida\source\repos\UserInformation\UserInformation\obj\Debug\net8.0\UserInformation.dll
+C:\Users\Harvey Mellomida\source\repos\UserInformation\UserInformation\obj\Debug\net8.0\refint\UserInformation.dll
+C:\Users\Harvey Mellomida\source\repos\UserInformation\UserInformation\obj\Debug\net8.0\UserInformation.pdb
+C:\Users\Harvey Mellomida\source\repos\UserInformation\UserInformation\obj\Debug\net8.0\UserInformation.genruntimeconfig.cache
+C:\Users\Harvey Mellomida\source\repos\UserInformation\UserInformation\obj\Debug\net8.0\ref\UserInformation.dll
